@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+Theme Name: Terzoni Claudio Website
+Author: Giuliano Mozzillo, Amarildo Shelna
+Author URI: https://mozzillation.com
+Description: Tema WP personalizzato per www.terzonivini.com
+Version: 1.0.5
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: www.terzonivini.com
+*/
+
+@import "frontend/css/style.css";
